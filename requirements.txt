@@ -1,4 +1,4 @@
 django
-git+git://github.com/AntonDnepr/goslate@master#egg=goslate
+git+https://github.com/AntonDnepr/goslate@master#egg=goslate
 polib
 six
