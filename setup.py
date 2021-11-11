@@ -24,7 +24,7 @@ setup(
     packages=find_packages(),
     install_requires=[
         "django",
-        "goslate @ git+https://github.com/AntonDnepr/goslate#egg=goslate",
+        "goslate @ git+https://github.com/schulmenueplaner-de/goslate#egg=goslate",
         "polib",
         "six",
     ],
